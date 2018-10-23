@@ -114,3 +114,5 @@ plt.ylabel('CDF')
 
 # Show the plot
 plt.show()
+
+Methods: Functions that belong to objects
